@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654199301 source:e:\programming\programming (c and c++) [college]\project\h. (bonus) yxz matrix division\project 7\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+

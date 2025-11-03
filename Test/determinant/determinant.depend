@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653952562 source:e:\programming\programming (c and c++) [college]\project\test\determinant\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<conio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654199017 source:e:\programming\programming (c and c++) [college]\project\test\determinant test\test\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1654285316 source:e:\programming\programming (c and c++) [college]\project\i. (bonus) yxz matrix calculator\complete project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cmath>
+
